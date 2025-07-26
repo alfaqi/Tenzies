@@ -39,6 +39,7 @@ main {
 .instructions {
   font-family: 'Inter', sans-serif;
   font-weight: 400;
+  padding: 6px;
   margin-top: 0;
   text-align: center;
 }
