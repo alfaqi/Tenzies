@@ -7,7 +7,7 @@ body {
   margin: 0;
   background-color: #0B2434;
   padding: 20px;
-  height: 100vh;
+  /* height: 100vh; */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -33,7 +33,7 @@ main {
 
 .title {
   font-size: 40px;
-  margin: 0;
+  margin: 10px 0 0 0;
 }
 
 .instructions {
@@ -72,6 +72,7 @@ button.roll-dice {
   white-space: nowrap;
   width: auto;
   padding: 6px 21px;
+  margin-bottom: 20px;
   border: none;
   border-radius: 6px;
   background-color: #5035FF;
